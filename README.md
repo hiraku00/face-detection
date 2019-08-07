@@ -109,4 +109,4 @@ for i in images:
 ![003_face_rectangle.jpg](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/67194/f541162a-0b03-c96c-f287-5704f97c08f8.jpeg)
 
 # In Japanese
-- [Qiita](XXXX)
+- [Qiita](https://qiita.com/hiraku00/items/de0c1d0e159d65328a1b)
